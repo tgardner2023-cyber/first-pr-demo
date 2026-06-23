@@ -2,15 +2,15 @@
 
 A simple demo project.
 
-## Instalation
+## Installation
 
-Run the folowing command to get started:
+Run the following command to get started:
 
 ```bash
 npm install
 ```
 
-## Uasge
+## Usage
 
 ```bash
 npm start
